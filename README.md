@@ -1,6 +1,6 @@
 # DARK SCREENING
 
-Python-based Public Information Scanner.
+**Python-based Public Information Scanner.**
 
 ## Features
 
@@ -18,7 +18,27 @@ Python-based Public Information Scanner.
 
 ## Installation
 
+Clone repository:
+
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/ilhamfandholi/DARK-SCREENING.git
 cd DARK-SCREENING
-python -m pip install dnspython
+```
+
+Install dependencies:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+python main.py
+```
+
+## Disclaimer
+
+This project is intended for educational purposes and lawful public-information research only.
+
+Geolocation results are approximate and based on IP data.
